@@ -1,5 +1,4 @@
 #+title: dc-trixie
 #+author: Donnie Cameron <macnod@gmail.com>
 
-* dc-trixie
-  Latest incarnation of Donnie's bad-ass artificial neural network experiment
+Latest incarnation of Donnie's bad-ass artificial neural network experiment
